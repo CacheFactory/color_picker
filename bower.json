@@ -1,0 +1,22 @@
+{
+  "name": "color_picker",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Edward Anderson"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/CacheFactory/color_picker",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^0.14.8"
+  }
+}

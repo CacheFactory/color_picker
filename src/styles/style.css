@@ -1,0 +1,31 @@
+body {
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+.form {
+  text-align: center;
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 200px;
+}
+
+.form input {
+  margin-left: 10px;
+}
+
+.color-name {
+  margin-top: 10px;
+}
+
+.color {
+  vertical-align: middle;
+  height: 50px;
+  border: solid 1px black;
+  margin: 10px;
+  -webkit-transition: background-color 1000ms linear;
+  -moz-transition: background-color 1000ms linear;
+  -o-transition: background-color 1000ms linear;
+  -ms-transition: background-color 1000ms linear;
+  transition: background-color 1000ms linear;
+}
